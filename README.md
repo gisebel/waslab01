@@ -2,6 +2,5 @@
 
 Students: 
 
-* Surname_1, First_name_1
+* Beltran, Gisela
 
-* Surname_2, First_name_2
